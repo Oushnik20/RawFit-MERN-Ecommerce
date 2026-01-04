@@ -2,6 +2,11 @@
 
 **Dressify** is a full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) featuring a customer-facing frontend, admin panel, and robust backend API. The platform is designed for seamless shopping experiences with modern UI/UX patterns including skeleton loading screens.
 
+![Home Page](image.png)
+![Collections Page](image-1.png)
+![Cart Page](image-2.png)
+![Product Page](image-3.png)
+![Admin Page](image-4.png)
 ---
 
 ## 📋 **Table of Contents**

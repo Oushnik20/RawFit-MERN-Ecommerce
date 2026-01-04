@@ -448,9 +448,8 @@ npm run dev
 
 ## 📞 **Contact & Support**
 
-**Developer:** Nitin Semwal  
-**Email:** 55semwalnitin@gmail.com  
-**GitHub:** [NitinSemwal2605](https://github.com/NitinSemwal2605)
+**Developer:** Oushnik Banerjee 
+**Email:** oushbanerjee10@gmail.com  
 
 ---
 

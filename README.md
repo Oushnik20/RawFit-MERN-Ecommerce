@@ -1,6 +1,8 @@
-# 🛍️ **Dressify - Modern E-commerce Platform**
+# 🛍️ **RawFit - Modern E-commerce Platform**
 
-**Dressify** is a full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) featuring a customer-facing frontend, admin panel, and robust backend API. The platform is designed for seamless shopping experiences with modern UI/UX patterns including skeleton loading screens.
+**RawFit** is a modern fitness and lifestyle clothing platform built for people
+    who value comfort, performance, and simplicity. Our goal is to make quality
+    activewear and everyday essentials easily accessible to everyone.
 
 ![Home Page](image.png)
 ![Collections Page](image-1.png)
@@ -453,9 +455,8 @@ npm run dev
 
 ## 📞 **Contact & Support**
 
-**Developer:** Nitin Semwal  
-**Email:** 55semwalnitin@gmail.com  
-**GitHub:** [NitinSemwal2605](https://github.com/NitinSemwal2605)
+**Developer:** Oushnik Banerjee 
+**Email:** oushbanerjee10@gmail.com  
 
 ---
 

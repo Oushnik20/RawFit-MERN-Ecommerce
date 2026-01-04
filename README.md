@@ -4,11 +4,21 @@
     who value comfort, performance, and simplicity. Our goal is to make quality
     activewear and everyday essentials easily accessible to everyone.
 
-![Home Page](image.png)
-![Collections Page](image-1.png)
-![Cart Page](image-2.png)
-![Product Page](image-3.png)
-![Admin Page](image-4.png)
+Home Page:
+<img width="1643" height="776" alt="image" src="https://github.com/user-attachments/assets/0c7497a7-6252-44db-9754-c72f4432d531" />
+
+Collections Page:
+<img width="1640" height="827" alt="image" src="https://github.com/user-attachments/assets/0837e0c7-5010-4093-b9ef-2ec442e9d6ea" />
+
+Cart Page:
+<img width="1729" height="856" alt="image" src="https://github.com/user-attachments/assets/b8ad3807-708f-489b-9924-ec90b8232ae0" />
+
+Product Page:
+<img width="1671" height="794" alt="image" src="https://github.com/user-attachments/assets/f18d42ce-429a-4475-928d-8cce12887b5f" />
+
+Admin Page:
+<img width="1808" height="728" alt="image" src="https://github.com/user-attachments/assets/75b812a7-e055-4bdd-ba10-3db372406689" />
+
 ---
 
 ## 📋 **Table of Contents**
